@@ -68,11 +68,11 @@ To run the project, run `npm start` to run the project
 
 ## 👥 Author <a name="author"></a>
 
-👤 **Huzaifa khan**
+👤 Shayan
 
-- GitHub: [@huzaifakhan0308](https://github.com/huzaifakhan0308)
-- Twitter: [@huzaifakhan0308](https://twitter.com/home?lang=en)
-- LinkedIn: [huzaifa khan](https://www.linkedin.com/in/huzaifa-khan-938140256/)
+- GitHub: [@githubhandle](https://github.com/shayan1234554321)
+- Twitter: [@twitterhandle](https://twitter.com/shayan123455432)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shayan-khan20/)
 
 ## 🤝 Contributing <a name="contributing"></a>
 
